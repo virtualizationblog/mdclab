@@ -1,0 +1,10 @@
+# PyRIT - Python Risk Identification Toolkit for Generative AI
+pyrit>=0.4.0
+
+# Azure OpenAI dependencies
+openai>=1.0.0
+azure-identity>=1.15.0
+
+# Additional dependencies
+python-dotenv>=1.0.0
+asyncio>=3.4.3
